@@ -39,7 +39,28 @@ GROUP BY
 
 SELECT * FROM evasao_turma;
 ```
-## 4-Consulta para verificar quais dias na semana são as aulas dos cursos
+# 4-Crie um trigger para ser disparado quando o atributo status de um estudante for atualizado 
+e inserir um novo dado em uma tabela de log.
+```mysql
+-- Definição do delimitador para o trigger
+DELIMITER //
+-- Criação do trigger para registrar alterações no status de alunos em aluno_turma
+CREATE TRIGGER aluno_status AFTER
+    UPDATE ON aluno_turma
+FOR EACH ROW
+BEGIN
+    INSERT INTO log(id_aluno, novo_status, antigo_status, data_modificacao)
+    VALUES(NEW.id_aluno, NEW.status, OLD.status, NOW());
+END;
+//
+-- Restauração do delimitador padrão
+DELIMITER ;
+```
+## Seleciona o log
+```
+SELECT * FROM log
+```
+## 5-Consulta para verificar quais dias na semana são as aulas dos cursos
 ```mysql
 -- Consulta para verificar quais dias na semana são as aulas dos cursos
 SELECT
