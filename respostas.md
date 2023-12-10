@@ -36,7 +36,9 @@ FROM
     JOIN aluno a ON at.id_aluno = a.id_aluno
 GROUP BY
     t.id_turma;
-
+```
+**Seleciona a view**
+```mysql
 SELECT * FROM evasao_turma;
 ```
 ## 4-Crie um trigger para ser disparado quando o atributo status de um estudante for atualizado e inserir um novo dado em uma tabela de log.
