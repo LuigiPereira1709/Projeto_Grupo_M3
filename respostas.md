@@ -1,5 +1,3 @@
-USE resilientes;
-
 ## 1-Selecionar a quantidade total de estudantes cadastrados no banco
 ```mysql
 -- Seleciona a quantidade total de alunos cadastrados no banco de dados
