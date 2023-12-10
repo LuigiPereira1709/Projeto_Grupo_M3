@@ -57,7 +57,7 @@ Os arquivos CSV serão salvos na pasta `data/` com os nomes `<prefixo>_empresas.
 Veja abaixo o modelo lógico que representa a estrutura do banco de dados.
 
 - **Modelo Lógico**
-  ![Modelo Logico](./IMG-20231206-WA0013.png)
+  ![Modelo Logico](./modelos/IMG-20231206-WA0013.png)
 
 ## Dados de Exemplo
 
