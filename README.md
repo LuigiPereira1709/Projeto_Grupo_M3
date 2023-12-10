@@ -28,8 +28,9 @@ Este repositório contém o código fonte e scripts para criar e alimentar um ba
     - **especialidades.txt:** TXT com informações sobre as especialidades utilizadas.
     - **formacoes.txt:** TXT com informações sobre as formações utilizadas.
 - **data/:** Pasta para arquivos CSV gerados pelo script de geração de dados.
-	-**dados_exemplo:** Pasta com exemplos de csv gerados pelo script python.
-- **modelo/:** Contém o modelo lógico do banco de dados.
+	-**dados_exemplo:** Pasta com exemplos de csv que são gerados pelo script python.
+- **modelos/:** Contém os modelos conceitual e lógico do banco de dados.
+-**apresentação:** Contém os materiais utilizados para apresentar o projeto.
 - **requirements.txt:** Lista de requisitos do projeto.
 - **README.md:** Este arquivo, fornecendo informações gerais sobre o projeto e instruções de uso.
 
@@ -43,10 +44,8 @@ Este repositório contém o código fonte e scripts para criar e alimentar um ba
 
 1. Abra o terminal na pasta do projeto.
 2. Execute o script Python `generate_data.py` localizado em `scripts/data_generation_scripts/`.
-3. Siga as instruções para inserir a quantidade desejada de dados para empresas, colaboradores e tecnologias.
-4. Forneça um prefixo para os nomes dos arquivos CSV gerados.
 
-Os arquivos CSV serão salvos na pasta `data/` com os nomes `<prefixo>_empresas.csv`, `<prefixo>_colaboradores.csv` e `<prefixo>_tecnologias.csv`.
+Os arquivos CSV serão salvos na pasta `data/` com os nomes `<prefixo>_aluno.csv`, `<prefixo>_professor.csv`, `<prefixo>_curso.csv`, `<prefixo>_aluno_turma.csv`, `<prefixo>_turma.csv`, `<prefixo>_turno.csv`, `<prefixo>_disciplina.csv` e `<prefixo>_usuario.csv`
 
 ### Povoar o Banco de Dados:
 
