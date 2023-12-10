@@ -57,6 +57,12 @@ END;
 -- Restauração do delimitador padrão
 DELIMITER ;
 ```
+**Atualizando o atributo "presenca" na tabela "aluno_turma".**
+```mysql
+update aluno_turma
+SET status = 'teste'
+where id_aluno = 3 ;
+```
 **Seleciona o log**
 ```mysql
 SELECT * FROM log
