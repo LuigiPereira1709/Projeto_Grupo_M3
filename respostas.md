@@ -57,7 +57,7 @@ END;
 -- Restauração do delimitador padrão
 DELIMITER ;
 ```
-### Seleciona o log
+**Seleciona o log**
 ```mysql
 SELECT * FROM log
 ```
