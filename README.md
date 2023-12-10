@@ -119,8 +119,13 @@ Consulte o arquivo `respostas.sql` para obter respostas às perguntas e requisit
 
 ## Autores
 Luigi Pereira
+
 Drielli Almeida
+
 Andressa Victoria
+
 Fernando Barbosa
+
 Ederson Macedo
+
 Debora Jansen
