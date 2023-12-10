@@ -52,9 +52,9 @@ Os arquivos CSV serão salvos na pasta `data/` com os nomes `<prefixo>_empresas.
 
 1. Utilize no [MySQL Workbench](https://www.mysql.com/products/workbench/) o script `load_data` em `scripts/database_scripts/` para inserir os dados no banco de dados.
 
-## Modelo Lógico do Banco de Dados
+## Modelos Conceitual e Lógico do Banco de Dados
 
-Veja abaixo o modelo lógico que representa a estrutura do banco de dados.
+Veja abaixo os modelos conceitual e lógico que representam a estrutura do banco de dados.
 
 - **Modelo Conceitual**
   ![Modelo Conceitual](./modelos/modelo_conceitual.jpg)
