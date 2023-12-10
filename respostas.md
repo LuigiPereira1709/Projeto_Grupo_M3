@@ -39,8 +39,7 @@ GROUP BY
 
 SELECT * FROM evasao_turma;
 ```
-# 4-Crie um trigger para ser disparado quando o atributo status de um estudante for atualizado 
-e inserir um novo dado em uma tabela de log.
+## 4-Crie um trigger para ser disparado quando o atributo status de um estudante for atualizado e inserir um novo dado em uma tabela de log.
 ```mysql
 -- Definição do delimitador para o trigger
 DELIMITER //
@@ -56,8 +55,8 @@ END;
 -- Restauração do delimitador padrão
 DELIMITER ;
 ```
-## Seleciona o log
-```
+### Seleciona o log
+```mysql
 SELECT * FROM log
 ```
 ## 5-Consulta para verificar quais dias na semana são as aulas dos cursos
