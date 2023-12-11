@@ -19,7 +19,7 @@ class Gerador:
     def gerar_curso(self):
         # Gera dados fictícios para cursos
         dados = []
-        for _ in range(self.quantidade_loop(50, 250)):
+        for _ in range(50):
             data_inicio = self.falso.date_this_decade()
             data_termino = data_inicio + timedelta(days=self.falso.random_int(min=30, max=730))
             dados.append({
@@ -63,7 +63,7 @@ class Gerador:
             })
 
         # Gera dados fictícios de professores sem a utilização do csv "data_aluno" 
-        for _ in range(self.quantidade_loop(50, 250) - tamanho_alunos): 
+        for _ in range(self.quantidade_loop(50, 100) - tamanho_alunos): 
             dados.append({
                 'nome': self.falso.name(),
                 'cpf': self.falso.cpf(),
@@ -79,7 +79,7 @@ class Gerador:
         # Gera dias aleatórios da semana para uma turma a cada loop
         dados = []
         dias = ['Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Sexta-feira', 'Sábado']
-        for _ in range(self.quantidade_loop(50, 250)):
+        for _ in range(50):
             dias_aleatorios = random.sample(dias, k=random.randint(1, len(dias)))
             dados.append({
                 'dias': dias_aleatorios
@@ -90,8 +90,10 @@ class Gerador:
     def gerar_aluno_turma(self):
         # Gera dados fictícios para status e presença
         dados = []
-        status = ['ativo', 'desativado', 'evasão']
-        for _ in range(self.quantidade_loop(50, 250)):
+        dados_alunos = pd.read_csv('./data/data_aluno.csv').to_dict('records')
+        tamanho_alunos = len(dados_alunos)
+        status = ['ativo', 'evasão']
+        for _ in range(tamanho_alunos):
             escolha_aleatoria = random.choice(status)
 
             # Define a porcentagem de presença com base no status escolhido
