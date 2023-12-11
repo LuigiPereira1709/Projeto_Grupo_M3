@@ -67,11 +67,7 @@ where id_aluno = 3 ;
 ```mysql
 SELECT * FROM log
 ```
-## Crie um script que consulte os nomes dos 
-alunos que estão matriculados em uma turma 
-específica, juntamente com o nome do 
-professor responsável pela disciplina associada 
-a essa turma.
+## Crie um script que consulte os nomes dos alunos que estão matriculados em uma turma específica, juntamente com o nome do professor responsável pela disciplina associada a essa turma.
 ```mysql
 -- Consulta para obter os nomes dos alunos e o nome do professor associado à turma
 SELECT 
@@ -86,10 +82,7 @@ JOIN professor ON disciplinas.id_professor = professor.id_professor
 WHERE 
     turma.id_turma = 1;
 ```
-## Selecione os cursos oferecidos em um 
-determinado turno, considerando o nome do 
-curso, a carga horária e os dias da semana nos 
-quais as aulas ocorrem
+## Selecione os cursos oferecidos em um determinado turno, considerando o nome do curso, a carga horária e os dias da semana nos quais as aulas ocorrem
 ```mysql
 -- Consulta para obter os cursos oferecidos em um determinado turno
 SELECT 
