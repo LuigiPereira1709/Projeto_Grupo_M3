@@ -21,7 +21,7 @@ Este repositório contém o código fonte e scripts para criar e alimentar um ba
 ## Estrutura do Projeto
 
 - **scripts/:**
-  - **database_scripts/:** Contém scripts SQL para criar e alimentar o banco de dados.
+  - **database_scripts/:** Contém scripts SQL para criar, alimentar o banco de dados e para fazer algumas consultas.
   - **data_generation_scripts/:** Script Python para gerar dados fictícios.
   - **files/:** Armazena dados utilizados pelo sistema.
     - **cursos.txt:** TXT com informações sobre os cursos utilizados.
