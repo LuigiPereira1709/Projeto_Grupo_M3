@@ -1,138 +1,112 @@
 nome,cpf,formacao,especialidade,email,telefone
-Sr. Augusto Oliveira,978.250.634-65,Bacharelado em Ciências Sociais,Estética Facial,caroline08@example.com,+55 31 0264 8858
-Ana Lívia Nogueira,237.946.810-96,Curso Técnico em Programação de Jogos,Administração Hospitalar,lorenzo47@example.org,(061) 6490 3119
-Luiza Novaes,731.056.289-59,Curso Técnico em Fotografia,Desenvolvimento de Jogos,bda-conceicao@example.net,61 3870-3457
-Joaquim Duarte,367.108.592-40,Bacharelado em Ciência da Computação,Sistemas de Controle,sarahda-rosa@example.net,+55 (061) 5672-0491
-Sra. Ana Carolina Fernandes,519.847.302-23,Curso Técnico em Marketing Digital,Psicoterapia Infantil,ramosalice@example.net,+55 84 6618 7028
-Pietra Campos,073.182.965-40,Curso Técnico em Teatro,Agricultura Sustentável,maria-claradas-neves@example.com,(081) 9217-9384
-Sra. Larissa Melo,143.802.576-90,Licenciatura em Geografia,Antropologia Urbana,maria-cecilia93@example.com,21 9026 3670
-Brenda Pires,834.052.619-70,Curso Técnico em Fotografia,Engenharia de Estruturas,gcavalcanti@example.net,0800 031 7827
-Thiago Almeida,790.156.248-01,Bacharelado em Engenharia Ambiental,Eletrônica de Potência,santosthales@example.org,+55 51 9518 1703
-Luiz Henrique Duarte,680.134.975-93,Mestrado em Educação Ambiental,Estética Facial,fernandesesther@example.org,0300-457-3765
-Milena Barros,825.637.904-92,Mestrado em Engenharia Elétrica,Gestão de Negócios,xcosta@example.net,+55 11 1530-3239
-Luana Ramos,876.540.129-85,Curso Técnico em Marketing Digital,Marketing Digital,sgoncalves@example.net,+55 31 6837-6515
-Maysa Costa,485.026.913-33,Curso Técnico em Manutenção de Redes de Computadores,Arte Contemporânea,eloahda-mata@example.org,+55 81 2128 5664
-Evelyn Lima,901.236.548-15,Licenciatura em Letras,Jornalismo Digital,das-nevesmaria@example.net,41 6237-5854
-Rafael Peixoto,875.192.430-79,Curso Técnico em Enfermagem,Biomedicina Molecular,fernandaviana@example.com,+55 11 6959-9917
-Ian Oliveira,048.536.279-10,Curso Técnico em Estética,Sistemas de Controle,mduarte@example.org,0300-710-3279
-Luiz Felipe Cardoso,901.243.865-98,Bacharelado em Ciências Econômicas,Economia do Trabalho,osilveira@example.com,+55 (071) 2542 2363
-João Gabriel Freitas,198.542.630-70,Mestrado em Desenvolvimento Sustentável,Redes de Computadores,theobarros@example.com,0300 713 5230
-Alana Cunha,769.384.521-64,Licenciatura em Sociologia,Química Orgânica,rezendegiovanna@example.net,+55 (011) 8122 9475
-Gabriela da Cruz,471.650.829-30,Mestrado em Psicologia Clínica,Enfermagem Obstétrica,nogueiraaugusto@example.com,(021) 8449-7335
-Mariana Almeida,312.865.704-17,Curso Técnico em Logística,Administração Hospitalar,alicia85@example.com,+55 (031) 6334 5166
-Lucas Dias,501.372.869-02,Curso Técnico em Manutenção de Redes de Computadores,Ciência Política Comparada,ycostela@example.net,+55 (021) 7884 5666
-Sra. Rafaela das Neves,651.420.938-60,Curso Técnico em Marketing Digital,Geografia Humana,carolinacavalcanti@example.org,(041) 8841 0031
-João Miguel Fogaça,286.045.931-60,Mestrado em Saúde Pública,Educação Matemática,efreitas@example.net,+55 (081) 4056-7605
-Ana Sophia Viana,561.930.728-02,Bacharelado em Ciências Políticas,Nutrição Esportiva,carvalhothiago@example.com,+55 71 4039 5357
-Isabella da Paz,184.730.529-60,Licenciatura em Geografia,Eletrônica de Potência,juan89@example.net,0900-552-2983
-Lorena Oliveira,546.139.072-25,Curso Técnico em Logística,Linguística Aplicada,helenada-mata@example.org,+55 (031) 9789-4076
-Brenda Freitas,230.654.871-44,Mestrado em Ciências Ambientais,Fotografia de Retrato,vitorpires@example.com,+55 41 0647-7845
-Eduardo Cardoso,784.065.213-17,Licenciatura em História,Ensino de Física,joao41@example.org,+55 (041) 7567 5286
-Camila Ribeiro,963.872.401-31,Bacharelado em Química,Saúde Pública Global,alvessamuel@example.net,(011) 8686-3733
-Enzo Gabriel Souza,809.341.672-22,Curso Técnico em Fotografia,Gestão Ambiental,moreiracalebe@example.net,0500-231-6974
-Eduarda Pinto,523.617.840-17,Bacharelado em Engenharia Civil,Redes de Computadores,uribeiro@example.com,81 3260 3365
-Kamilly Rezende,856.734.102-71,Curso Técnico em Manutenção de Redes de Computadores,Filosofia da Mente,dlopes@example.org,11 3424 0951
-Renan Costa,947.015.328-60,Curso Técnico em Logística,Bioinformática,murilo49@example.com,0300-069-7706
-Srta. Vitória Fogaça,728.196.053-03,Curso Técnico em Manutenção de Redes de Computadores,Administração Hospitalar,monteirobianca@example.net,+55 41 5355-9042
-Davi Cavalcanti,361.598.074-39,Licenciatura em Matemática,Teatro Musical,xdias@example.com,61 3162-6317
-Maria Cecília Cunha,258.709.461-58,Licenciatura em Música,Desenvolvimento Web,da-rosaolivia@example.org,+55 (031) 8161 5119
-Sophia Barros,954.826.713-64,Bacharelado em Ciências Biomédicas,Educação Física Adaptada,danielacosta@example.com,(081) 3993-9801
-Maria Julia Silva,524.139.708-60,Curso Técnico em Marketing Digital,Psicologia Clínica,rafaela48@example.com,(041) 7430-2379
-João Lucas Pires,312.570.469-34,Curso Técnico em Programação de Jogos,Nutrição Esportiva,ninaoliveira@example.com,(071) 9537 0498
-Diogo Caldeira,534.729.816-28,Licenciatura em Geografia,Direito Penal,da-motajoaquim@example.com,(071) 4985-9816
-Luiz Henrique Mendes,041.678.532-80,Licenciatura em História,Arquitetura Sustentável,raquel01@example.net,+55 (041) 4823-4118
-Francisco Jesus,517.034.986-66,Licenciatura em Física,Economia do Trabalho,ana-carolina36@example.org,31 9531-4145
-Sr. Francisco Rezende,107.236.498-04,Curso Técnico em Agronomia,Biomedicina Molecular,arthursales@example.org,(051) 6552-5712
-Marcelo Farias,054.367.291-34,Curso Técnico em Robótica,Marketing Digital,adas-neves@example.com,+55 71 2630-5866
-Samuel da Mota,850.237.694-29,Licenciatura em Geografia,Engenharia de Sustentabilidade,arezende@example.org,41 6197-8073
-Kamilly Gomes,370.461.892-69,Licenciatura em Artes Visuais,Enfermagem Obstétrica,rafaela61@example.net,(011) 6327-9060
-Alícia Pinto,396.120.458-60,Mestrado em Ciência da Computação,Marketing Digital,jcarvalho@example.org,0500-766-2487
-Raquel Costa,420.951.376-80,Mestrado em Psicologia Clínica,Direito Penal,isis22@example.org,+55 (071) 1127 8376
-João Lucas Silveira,478.069.135-48,Bacharelado em Ciências Econômicas,Desenvolvimento Web,enzo-gabrieldas-neves@example.org,+55 (021) 4378 0811
-Marcos Vinicius Souza,571.243.980-88,Mestrado em Psicologia Clínica,Jornalismo Científico,santosjoaquim@example.com,+55 (081) 1242-5269
-Letícia Souza,096.127.348-87,Curso Técnico em Jornalismo,Economia Internacional,sophie20@example.net,0300-936-5286
-Benjamin da Mota,048.615.793-84,Curso Técnico em Estética,Agricultura Sustentável,goncalvesolivia@example.com,+55 51 7892 8070
-Alice da Paz,264.793.085-65,Bacharelado em Ciência da Computação,Economia Internacional,halmeida@example.org,+55 (084) 1989-1851
-Ana Vitória da Cunha,836.920.174-13,Bacharelado em Ciências Sociais,Gestão de Negócios,maria-clarapinto@example.net,(081) 1771-5668
-Kevin da Luz,213.658.097-30,Licenciatura em Física,Desenvolvimento Web,marcos-vinicius78@example.com,0900-005-7153
-Eduarda da Rocha,064.831.927-03,Mestrado em Psicologia Clínica,Inteligência Artificial,catarina14@example.net,(041) 2265 8401
-João Martins,840.152.793-79,Mestrado em Desenvolvimento Sustentável,Psicologia Clínica,gomesbeatriz@example.org,+55 (031) 4010-1505
-Maria Pires,875.406.391-48,Bacharelado em Comunicação Social,Desenvolvimento Urbano Sustentável,rribeiro@example.net,+55 81 1652-2345
-Pedro Henrique das Neves,968.427.315-00,Bacharelado em Ciências Políticas,Biomedicina Molecular,da-luzjoao-vitor@example.org,+55 (071) 9009-9583
-Pietro Ribeiro,152.036.479-25,Mestrado em Arquitetura Sustentável,Ecologia Aquática,maria-juliada-luz@example.com,+55 (051) 1735 2501
-Sra. Gabrielly da Mata,941.025.738-79,Bacharelado em Comunicação Social,Psicologia Clínica,ana-vitoria65@example.net,(011) 4662-1157
-Renan Cardoso,731.295.048-50,Licenciatura em Letras,Marketing Digital,ana-sophia63@example.net,84 1403-7593
-Dr. Nicolas Mendes,257.094.618-49,Bacharelado em Ciência da Computação,Sociologia da Globalização,carlos-eduardoazevedo@example.net,+55 (071) 8988 4334
-Otávio Santos,765.843.921-55,Mestrado em Linguística,Arte Contemporânea,ana-luizacostela@example.com,(041) 7564 5438
-Dra. Cecília das Neves,089.765.243-65,Licenciatura em Biologia,Linguística Aplicada,gnunes@example.net,81 9590 7211
-Benício Silva,248.719.603-31,Curso Técnico em Jornalismo,Educação Física Adaptada,maria-fernanda62@example.com,+55 (071) 7072 5644
-Davi Cardoso,594.206.378-83,Mestrado em Ciências Ambientais,Ecologia Aquática,vcavalcanti@example.net,(071) 4530 4889
-Raul Freitas,795.308.241-14,Bacharelado em Ciência da Computação,Linguística Aplicada,novaesjuliana@example.org,11 6113 9740
-Dr. Yuri Ferreira,857.160.923-30,Licenciatura em Física,Fotografia de Retrato,marcos-viniciusmoreira@example.com,+55 21 4287 1765
-Breno Oliveira,687.359.012-68,Licenciatura em Sociologia,Design de Interiores Residenciais,sribeiro@example.com,(021) 0992 5302
-Augusto Barbosa,230.841.596-70,Bacharelado em Direito,Eletrônica de Potência,costelaanthony@example.org,0900 446 4617
-Rebeca Fernandes,904.572.638-65,Bacharelado em Ciências Biomédicas,Literatura Comparada,barrosleandro@example.com,+55 (061) 9358 6817
-Raquel Moraes,658.304.912-06,Bacharelado em Comunicação Social,Radiologia Intervencionista,gmoraes@example.net,+55 (041) 7791-1723
-Joaquim Cardoso,129.785.034-32,Bacharelado em Ciências Econômicas,Redes de Computadores,da-matajoao-vitor@example.com,(041) 3539 3550
-Nicolas Barbosa,796.205.431-06,Licenciatura em Música,Redes de Computadores,daragao@example.com,+55 (041) 8286 9463
-Pedro Henrique da Rocha,016.793.582-86,Licenciatura em Sociologia,Nutrição Esportiva,ida-rosa@example.org,61 8449 7483
-Maysa Azevedo,136.945.278-00,Curso Técnico em Jornalismo,Logística Empresarial,duarteemanuel@example.net,+55 (041) 8080 8047
-Ana Vitória Vieira,148.675.903-39,Curso Técnico em Design Gráfico,Ensino de Física,gabrielly14@example.com,+55 (011) 6788-2239
-Marcos Vinicius Teixeira,094.186.532-06,Mestrado em Educação Ambiental,Bioinformática,dsilveira@example.com,(041) 2882-4269
-Raul Almeida,735.609.281-68,Curso Técnico em Robótica,Química Orgânica,da-motadiogo@example.net,+55 (021) 6819-9029
-João Guilherme Moraes,957.230.614-61,Bacharelado em Ciências Biomédicas,Redes de Computadores,vjesus@example.net,(041) 0901 9030
-Pedro Ribeiro,968.523.104-42,Mestrado em Desenvolvimento Sustentável,Economia Internacional,wfarias@example.com,(071) 4604-8979
-Pedro Silveira,478.152.036-71,Mestrado em Economia,Nutrição Esportiva,vianaagatha@example.com,+55 21 1536 5340
-Kaique Mendes,328.654.017-07,Mestrado em Economia,Inteligência Artificial,lais31@example.org,+55 71 6861 2221
-Sarah Teixeira,630.917.852-03,Bacharelado em Direito,Radiologia Intervencionista,luiz-felipe98@example.com,+55 (061) 5114-3446
-Srta. Amanda Pires,865.271.039-21,Mestrado em Saúde Pública,Ciência Política Comparada,lucas44@example.org,+55 (021) 9677 3401
-Dra. Pietra Nascimento,931.548.270-05,Mestrado em Ciências Ambientais,Psicoterapia Infantil,joao-lucasfogaca@example.com,61 2771 7688
-Leonardo Ramos,036.182.574-90,Curso Técnico em Estética,Sociologia da Globalização,zaraujo@example.net,(061) 7795 8415
-Dr. Rodrigo Vieira,721.358.960-12,Mestrado em Desenvolvimento Sustentável,Agricultura Sustentável,ribeiroisaac@example.org,(021) 1902-7315
-Sr. Otávio Moura,623.905.748-74,Curso Técnico em Programação de Jogos,Arquitetura Sustentável,alexia24@example.org,84 2410-6121
-Lorena das Neves,250.364.178-44,Licenciatura em Geografia,Gestão Ambiental,da-rosajoao-gabriel@example.net,(021) 2209-0799
-Sofia da Luz,093.682.541-33,Bacharelado em Ciência da Computação,Linguística Aplicada,catarina62@example.net,81 5827 4871
-Sabrina Nascimento,683.147.059-93,Curso Técnico em Marketing Digital,Desenvolvimento Urbano Sustentável,hazevedo@example.org,+55 (031) 5488-4848
-Enzo Gabriel Correia,043.567.982-10,Bacharelado em Ciências Sociais,Filosofia da Mente,freitasjoao-pedro@example.org,(051) 1792 8207
-Cauê Cardoso,387.960.524-65,Curso Técnico em Robótica,Educação Física Adaptada,rochayuri@example.org,0800-490-5698
-Kaique da Conceição,673.802.519-02,Bacharelado em Design de Interiores,Linguística Aplicada,ribeirocaua@example.com,+55 41 6005-7657
-Dra. Esther Carvalho,873.591.260-02,Curso Técnico em Marketing Digital,Antropologia Urbana,andre33@example.net,61 2477-8458
-Felipe da Mata,249.570.831-50,Licenciatura em Música,Estética Facial,augusto92@example.com,0300 473 1119
-Bianca Pereira,506.714.289-85,Licenciatura em Letras,Redes de Computadores,monteirolorena@example.com,(041) 8577 3076
-Mirella da Rosa,152.479.380-97,Licenciatura em Música,Eletrônica de Potência,maria-clarada-rosa@example.org,+55 (021) 4554 1126
-Benício Ferreira,082.675.913-03,Curso Técnico em Fotografia,História da Arte,uda-cunha@example.org,+55 (011) 0907-7268
-Lorena Freitas,195.378.602-21,Curso Técnico em Enfermagem,Sociologia da Globalização,bruna75@example.com,81 6004 1760
-Srta. Fernanda Monteiro,749.036.182-69,Curso Técnico em Estética,Desenvolvimento Web,davi-luiz85@example.net,+55 (021) 2414 7543
-Dra. Camila Barros,368.109.274-50,Licenciatura em Letras,Redes de Computadores,kevinramos@example.net,51 7590 0326
-Felipe Caldeira,280.537.149-60,Licenciatura em Geografia,Engenharia de Sustentabilidade,melissavieira@example.net,51 2298 4806
-Rafael Porto,972.548.163-19,Licenciatura em Física,Biomedicina Molecular,cecilia30@example.net,+55 11 1951-1033
-Matheus Silveira,906.278.415-11,Curso Técnico em Design Gráfico,Eletrônica de Potência,agatha12@example.net,(084) 6675 6211
-Dr. Murilo Pereira,098.653.742-00,Mestrado em Educação Ambiental,Administração Hospitalar,lucca42@example.org,(081) 0804 6406
-Dr. Paulo Caldeira,705.183.924-14,Licenciatura em Música,Jornalismo Científico,souzaisadora@example.com,71 6574 9019
-Dra. Luna das Neves,498.576.203-29,Bacharelado em Engenharia Civil,Gestão de Negócios,maria-ceciliarezende@example.net,+55 (011) 7131-8931
-João Farias,796.158.230-40,Mestrado em Engenharia Elétrica,Arquitetura Sustentável,da-pazhelena@example.com,+55 71 6346 7406
-Heloísa Nascimento,346.187.092-78,Bacharelado em Engenharia Ambiental,Economia do Trabalho,mendesantonio@example.net,+55 11 0012-0389
-Maria Alice Novaes,250.176.834-53,Bacharelado em Química,Educação Física Adaptada,isabellysilveira@example.net,+55 31 7953 4895
-Yasmin Cardoso,041.652.978-01,Bacharelado em Direito,Desenvolvimento de Jogos,vda-cruz@example.net,+55 61 9966 7325
-Enzo Gabriel Novaes,715.028.634-80,Bacharelado em Direito,Psicologia Clínica,caio50@example.net,+55 61 0071-2577
-Paulo Nogueira,195.432.067-16,Mestrado em Engenharia Elétrica,Inteligência Artificial,enzo-gabrielsouza@example.net,21 3396 9706
-Maria Julia das Neves,254.810.369-24,Bacharelado em Química,Desenvolvimento Urbano Sustentável,ffernandes@example.com,71 6009-3559
-Caio Pinto,503.462.719-16,Curso Técnico em Programação de Jogos,Inteligência Artificial,limapedro@example.com,(084) 8924 0248
-Carolina da Conceição,583.649.071-66,Mestrado em Ciência da Computação,Filosofia da Mente,marianalima@example.org,+55 21 0393 2710
-Bianca Almeida,780.196.432-22,Bacharelado em Engenharia Civil,Logística Empresarial,alexandreda-cruz@example.com,11 0760 8778
-Caio Cavalcanti,623.740.518-62,Mestrado em Desenvolvimento Sustentável,Design de Interiores Residenciais,nicolascorreia@example.net,61 3853-4524
-Bernardo Vieira,239.410.568-24,Curso Técnico em Design Gráfico,Inteligência Artificial,agathaviana@example.org,(081) 5274 7874
-Nicolas Souza,601.427.358-17,Mestrado em Educação Ambiental,Educação Física Adaptada,nicole76@example.org,71 3404 1770
-Otávio Melo,705.629.813-30,Curso Técnico em Enfermagem,Gestão Ambiental,costagabrielly@example.com,(041) 6077-9869
-Emanuelly Araújo,259.178.640-20,Mestrado em Psicologia Clínica,Literatura Comparada,maria-eduarda54@example.com,0800 032 5628
-Calebe Freitas,637.201.845-44,Licenciatura em Matemática,Desenvolvimento Urbano Sustentável,mirella31@example.org,(081) 7400 3793
-Ana Laura Almeida,579.432.810-04,Curso Técnico em Radiologia,Bioinformática,carlos-eduardocostela@example.org,41 3723-1127
-Antônio da Cruz,579.348.216-46,Bacharelado em Direito,Redes de Computadores,lunafogaca@example.org,41 1317-0222
-Pietra Santos,679.432.180-78,Curso Técnico em Fotografia,Design de Interiores Residenciais,mporto@example.org,+55 81 5624-8787
-Kamilly Moraes,431.962.087-96,Bacharelado em Psicologia,Inteligência Artificial,natalia27@example.net,+55 81 9649-4488
-Cauã Jesus,089.571.426-49,Curso Técnico em Jornalismo,Bioinformática,raul71@example.com,0500 401 5444
-Augusto da Cunha,658.173.490-00,Curso Técnico em Logística,Gestão Ambiental,wsantos@example.net,+55 (084) 1944 2069
-Augusto Rodrigues,617.529.803-95,Licenciatura em História,Eletrônica de Potência,jnogueira@example.net,(011) 3830 3007
-Nicolas Ribeiro,380.471.692-03,Curso Técnico em Design Gráfico,Design de Interiores Residenciais,oda-luz@example.com,(071) 2023 9783
-Srta. Ana Júlia Nascimento,176.089.534-20,Bacharelado em Engenharia Civil,Radiologia Intervencionista,da-pazpedro-miguel@example.com,+55 (071) 3491-4845
-Vitória da Paz,498.513.267-55,Licenciatura em Música,História da Arte,luizacaldeira@example.org,+55 (061) 0140-3314
+Isabella Teixeira,468.390.517-57,Mestrado em Ciências Ambientais,Psicologia Clínica,gferreira@example.net,(084) 3194-4952
+Sr. Kevin Moura,974.152.068-94,Curso Técnico em Jornalismo,Educação Física Adaptada,barbosapietro@example.org,21 7056 0492
+Breno Porto,736.825.410-71,Curso Técnico em Jornalismo,Sistemas de Controle,da-costaana-julia@example.net,31 1927-4850
+Bárbara Correia,952.710.846-20,Bacharelado em Ciências Sociais,Biomedicina Molecular,da-cruzkevin@example.com,+55 (041) 4811-9780
+Bernardo Araújo,519.478.630-10,Curso Técnico em Agronomia,Biomedicina Molecular,da-pazesther@example.net,11 5743 5584
+Maria Luiza Dias,309.576.241-07,Bacharelado em Química,Biomedicina Molecular,limapietra@example.com,+55 (081) 6124 7117
+Sabrina Lopes,712.536.089-03,Bacharelado em Comunicação Social,Ecologia Aquática,qmonteiro@example.com,(084) 4347 0602
+Sra. Alícia Nogueira,061.293.547-70,Licenciatura em Física,Saúde Pública Global,piresmelissa@example.net,(084) 3474-3472
+Arthur da Rocha,284.653.710-08,Mestrado em Economia,Jornalismo Científico,lramos@example.com,+55 (061) 0883 2628
+Joaquim Almeida,591.740.238-88,Curso Técnico em Enfermagem,Robótica Industrial,silveiraisis@example.net,71 0145 0426
+João Lucas Ramos,719.234.850-32,Curso Técnico em Teatro,Antropologia Urbana,juliana28@example.com,+55 (084) 9810 6073
+Sarah Nunes,514.067.382-71,Bacharelado em Direito,Redes de Computadores,rafael99@example.com,(061) 2744 8233
+Breno Castro,143.968.570-39,Curso Técnico em Estética,Jornalismo Científico,carolineribeiro@example.org,(081) 7380-8844
+Júlia Dias,812.509.743-05,Curso Técnico em Design Gráfico,História da Arte,mendeshelena@example.com,(071) 8827-8399
+Marcela Carvalho,062.914.578-49,Curso Técnico em Eletrônica,Gestão Ambiental,da-rosaigor@example.net,51 0813 0828
+Luiz Gustavo Porto,604.328.917-22,Curso Técnico em Enfermagem,Química Orgânica,yago84@example.net,21 0838-4476
+Olivia Nunes,432.790.618-22,Bacharelado em Comunicação Social,Bioinformática,heloisa67@example.net,+55 81 5245-1733
+Benjamin da Mota,120.536.498-60,Curso Técnico em Radiologia,Ciência Política Comparada,castromariana@example.net,51 6016 7650
+Sofia Cardoso,597.823.461-28,Licenciatura em Matemática,Eletrônica de Potência,monteiromaria-cecilia@example.com,+55 (061) 9177-1369
+Laura Vieira,971.568.042-94,Bacharelado em Engenharia Ambiental,Nutrição Esportiva,alexiagoncalves@example.net,0900 949 7680
+Sr. Yuri Novaes,931.824.675-73,Curso Técnico em Logística,Jornalismo Digital,isadoraazevedo@example.net,+55 (084) 8569-5181
+Sra. Alexia Pereira,760.128.349-69,Mestrado em Ciências Ambientais,Literatura Comparada,lucas-gabrieldias@example.net,0300 427 0560
+Davi Lucca Correia,150.786.492-20,Licenciatura em Matemática,Enfermagem Obstétrica,joao-lucascaldeira@example.net,71 1952 1556
+Marina Silveira,650.741.823-44,Curso Técnico em Design Gráfico,Antropologia Urbana,srodrigues@example.com,+55 (031) 9426 9761
+Srta. Beatriz Fogaça,910.287.364-87,Bacharelado em Química,Sistemas de Controle,ceciliapires@example.net,+55 (011) 1318-9971
+Calebe Viana,853.217.609-77,Bacharelado em Ciências Sociais,Gestão de Negócios,bruna04@example.net,(021) 0855-7286
+Emanuel da Paz,591.648.023-70,Mestrado em Ciência da Computação,Composição Musical,barbosalucas-gabriel@example.com,41 4241 8785
+Vitória Lopes,328.059.476-65,Licenciatura em Biologia,Ciência Política Comparada,maria-eduardajesus@example.org,41 5894 1811
+Caio Moraes,769.134.085-01,Curso Técnico em Radiologia,Saúde Pública Global,peixotojoaquim@example.net,+55 51 0132 2304
+Otávio Rezende,071.354.928-97,Curso Técnico em Programação de Jogos,Educação Física Adaptada,joaquim62@example.org,21 2974-5085
+Gustavo Farias,841.265.397-19,Curso Técnico em Enfermagem,Educação Física Adaptada,maysa64@example.com,+55 31 8702 8125
+Sr. Lorenzo Duarte,253.847.160-53,Licenciatura em Educação Física,Inteligência Artificial,silveiranatalia@example.net,+55 41 0292-7526
+Sr. Heitor Moreira,019.742.856-85,Mestrado em Economia,Teatro Musical,eloah91@example.com,51 0039 5920
+Olivia Freitas,560.271.439-16,Bacharelado em Psicologia,Robótica Industrial,sophie69@example.com,(031) 6791-4423
+Rebeca Lopes,042.196.375-16,Curso Técnico em Jornalismo,Economia Internacional,carolineazevedo@example.com,+55 11 3257-9023
+Melissa Moreira,157.648.902-76,Mestrado em Economia,Arte Contemporânea,yurida-cunha@example.org,+55 81 8532 5914
+Dr. Yago Moreira,572.419.068-02,Mestrado em Ciência da Computação,Estética Facial,ofernandes@example.org,0300-565-2486
+Luiz Gustavo Gomes,786.954.023-47,Bacharelado em Ciências Sociais,Eletrônica de Potência,sofiavieira@example.com,+55 41 8495 8536
+Dr. Igor Rocha,428.791.306-03,Licenciatura em Filosofia,Economia do Trabalho,tcardoso@example.net,81 6902 7384
+Bruno da Costa,952.630.871-95,Mestrado em Saúde Pública,Engenharia de Sustentabilidade,davicarvalho@example.org,+55 (071) 6824 2693
+Caroline Cavalcanti,514.073.692-61,Curso Técnico em Design Gráfico,Gestão de Negócios,ceciliaazevedo@example.org,+55 (031) 1299 0262
+Pedro Henrique Cardoso,149.832.705-23,Bacharelado em Engenharia Civil,Ciência Política Comparada,milenacaldeira@example.org,+55 (071) 0677 0983
+Elisa Cavalcanti,405.763.812-17,Licenciatura em Biologia,Linguística Aplicada,oliveirabeatriz@example.org,+55 (031) 9568-3648
+Yuri Castro,638.701.452-26,Curso Técnico em Eletrônica,Composição Musical,esther38@example.org,+55 (081) 1811 2395
+Gustavo Ferreira,408.956.321-60,Licenciatura em História,Jornalismo Científico,salesmaria-fernanda@example.net,+55 (061) 3273-8452
+Maria Eduarda Rodrigues,498.605.317-57,Curso Técnico em Eletrônica,Sociologia da Globalização,rsales@example.org,(041) 0251 7853
+Vitor Gabriel Viana,509.168.342-98,Curso Técnico em Eletrônica,Eletrônica de Potência,erickvieira@example.org,(051) 8527-5160
+Alexia Gomes,192.850.673-95,Mestrado em Administração de Empresas,Saúde Pública Global,eduardo50@example.org,+55 61 8007-4652
+Raquel Costela,832.079.615-68,Mestrado em Educação Ambiental,Radiologia Intervencionista,nunesluna@example.net,+55 (081) 1888 7431
+Ana Carolina Carvalho,423.701.869-50,Mestrado em Ciências Ambientais,Robótica Industrial,barbosabruno@example.net,+55 41 4062 7214
+Sr. Isaac da Cunha,293.547.168-73,Licenciatura em Artes Visuais,Logística Empresarial,manuelada-costa@example.net,(061) 8625-6412
+Daniela Jesus,712.860.943-13,Licenciatura em Letras,Literatura Comparada,nina93@example.com,+55 (061) 5688 2258
+Camila Freitas,023.768.954-56,Bacharelado em Psicologia,Redes de Computadores,vianadaniel@example.com,+55 (021) 1427-5008
+Bryan da Conceição,807.693.451-66,Bacharelado em Comunicação Social,Inteligência Artificial,luiz-felipecardoso@example.net,(041) 1188-7675
+Manuela Rodrigues,902.871.456-11,Mestrado em Saúde Pública,Economia do Trabalho,da-costajoao-gabriel@example.net,(051) 7939-9170
+Emanuelly Pinto,726.850.341-53,Mestrado em Engenharia Elétrica,Eletrônica de Potência,luiz-fernandodias@example.com,(081) 8866 9717
+Dr. Enzo Peixoto,187.629.403-50,Curso Técnico em Agronomia,Saúde Pública Global,sabrina90@example.com,+55 81 7778 7444
+Davi Lucca Pires,026.917.853-86,Mestrado em Engenharia Elétrica,Linguística Aplicada,kmartins@example.org,+55 11 9407-5619
+Pedro Lucas da Conceição,456.278.910-76,Curso Técnico em Radiologia,Engenharia de Sustentabilidade,novaesluiz-gustavo@example.com,+55 (061) 3679-0818
+Sra. Emilly Novaes,596.740.328-00,Mestrado em Saúde Pública,Desenvolvimento Web,thiagofreitas@example.com,51 2229 2186
+Manuela Aragão,705.369.421-61,Mestrado em Ciências Ambientais,Gestão de Negócios,hsantos@example.org,0900 510 4275
+Ana Sophia Alves,734.218.560-44,Curso Técnico em Estética,Design de Interiores Residenciais,santosmariana@example.org,(061) 7041 3980
+Bárbara das Neves,761.495.320-70,Mestrado em Arquitetura Sustentável,Jornalismo Digital,glopes@example.org,(011) 6105 7182
+Miguel da Mata,539.426.187-37,Bacharelado em Comunicação Social,Economia do Trabalho,thales45@example.net,+55 84 6305-4072
+Leandro Fogaça,931.042.758-23,Mestrado em Administração de Empresas,Radiologia Intervencionista,nathan04@example.org,(031) 3957-9690
+João Sales,648.192.705-67,Curso Técnico em Radiologia,Direito Penal,pereirafernanda@example.net,(081) 3946-0320
+Fernando Fogaça,847.216.390-31,Mestrado em Engenharia Elétrica,Direito Penal,isabelpeixoto@example.net,+55 11 0951-7186
+Ana Vitória Fogaça,478.912.063-50,Bacharelado em Ciência da Computação,Arte Contemporânea,maysa41@example.net,+55 31 2916-7832
+Sophia Silveira,960.128.374-96,Mestrado em Linguística,Ensino de Física,diasfernando@example.com,+55 (051) 2520-1930
+Sra. Maria Vitória Dias,163.987.052-03,Curso Técnico em Agronomia,Ensino de Física,campossophia@example.net,11 0701 5451
+Bárbara Pereira,253.087.619-30,Bacharelado em Direito,Economia do Trabalho,castroheitor@example.com,(061) 2366 3148
+Sr. Raul Pereira,261.387.954-82,Bacharelado em Direito,Administração Hospitalar,leandrojesus@example.net,(021) 8720-2694
+Raul Caldeira,124.358.607-90,Licenciatura em História,Estética Facial,nogueiraaugusto@example.net,41 7556 5948
+Anthony Peixoto,057.389.126-59,Bacharelado em Nutrição,Design de Interiores Residenciais,rebecasilva@example.net,51 8909 8483
+Gabriela da Mota,970.842.163-40,Licenciatura em Biologia,Composição Musical,joana63@example.net,21 2212-8392
+Emilly Gomes,397.081.264-03,Mestrado em Educação Ambiental,Antropologia Urbana,sophieoliveira@example.org,61 3522-8383
+Sr. Caio Ramos,487.613.095-75,Curso Técnico em Enfermagem,Química Orgânica,larissagomes@example.org,+55 (051) 5447-7958
+Alícia Almeida,469.751.208-11,Bacharelado em Ciência da Computação,Enfermagem Obstétrica,gda-rocha@example.org,21 2120-0931
+Dr. Eduardo Carvalho,135.872.460-17,Bacharelado em Ciências Biomédicas,Arquitetura Sustentável,ana-livia35@example.com,0300-140-4543
+Maria Vitória Sales,128.450.793-97,Mestrado em Ciência da Computação,Engenharia de Sustentabilidade,mrodrigues@example.org,+55 (061) 3002 9415
+Luana Moraes,285.943.107-14,Licenciatura em Sociologia,Agricultura Sustentável,carolina99@example.com,0300-105-1476
+Dra. Clara Duarte,893.275.016-59,Mestrado em Arquitetura Sustentável,Ciência Política Comparada,maria-luiza37@example.com,+55 (051) 9391-7366
+Yuri Vieira,201.865.479-94,Bacharelado em Comunicação Social,Linguística Aplicada,andreazevedo@example.com,+55 (011) 1409-4170
+Dr. Augusto Nascimento,173.580.926-86,Bacharelado em Ciências Políticas,Desenvolvimento Urbano Sustentável,eloahmoraes@example.com,51 7585 6488
+Sr. Diego Cardoso,687.103.924-40,Curso Técnico em Eletrônica,Filosofia da Mente,evelyncunha@example.net,(081) 2217 9312
+Sofia Cavalcanti,917.654.028-67,Mestrado em Educação Ambiental,Direito Penal,pcaldeira@example.com,71 7240-3517
+Dr. Heitor Duarte,630.728.154-53,Curso Técnico em Fotografia,Geografia Humana,fernandeseduarda@example.net,(011) 9855 1703
+Rafael Silveira,703.456.821-90,Bacharelado em Nutrição,Gestão de Negócios,ymoraes@example.org,0800-614-2762
+Dra. Sophia Carvalho,732.461.950-99,Mestrado em Saúde Pública,Linguística Aplicada,da-pazevelyn@example.net,41 5304 6118
+Gabrielly Viana,154.062.789-67,Curso Técnico em Radiologia,Bioinformática,erickbarros@example.org,+55 61 4028-2593
+Cecília Rodrigues,591.207.438-23,Licenciatura em Artes Visuais,Ciência Política Comparada,da-cruzdanilo@example.com,0800-043-5251
+Ana Vitória Almeida,516.042.839-98,Mestrado em Engenharia Elétrica,Ecologia Aquática,caldeiraana-sophia@example.org,+55 71 5848 4848
+João Guilherme Costa,695.412.037-52,Curso Técnico em Enfermagem,Estética Facial,isabelrezende@example.org,+55 11 5742 4126
+Nicole Santos,918.530.267-86,Curso Técnico em Design Gráfico,Bioinformática,igor08@example.net,+55 (051) 5197 6688
+Vitor Alves,960.375.481-10,Bacharelado em Ciências Econômicas,Inteligência Artificial,isabelramos@example.org,0900 446 3373
+Eloah Campos,541.692.780-11,Licenciatura em Física,Jornalismo Científico,acostela@example.org,+55 31 9966-5801
+Davi Lucas Nogueira,395.827.640-74,Curso Técnico em Design Gráfico,Economia Internacional,da-rosajuan@example.net,61 0795 6888
+Dr. Rodrigo da Conceição,952.067.841-76,Mestrado em Linguística,Desenvolvimento Urbano Sustentável,lcosta@example.net,(011) 0866-4470
+Dr. Raul da Conceição,125.693.708-86,Mestrado em Economia,Fotografia de Retrato,kamillyfernandes@example.com,+55 (031) 1967-4627
+Sr. Felipe Rocha,134.850.627-07,Curso Técnico em Programação de Jogos,Geografia Humana,almeidabernardo@example.org,+55 51 5220 6888
+Kevin Pires,601.938.524-89,Mestrado em Arquitetura Sustentável,Robótica Industrial,vitor-hugoaragao@example.com,+55 (084) 5105 2273
+Isadora Lopes,527.041.936-06,Curso Técnico em Logística,Filosofia da Mente,mgomes@example.org,+55 21 5307-3403
+Ana Clara Teixeira,973.215.680-59,Curso Técnico em Radiologia,História da Arte,isabelramos@example.org,21 4119 5890
+Paulo Martins,625.740.381-26,Curso Técnico em Jornalismo,Desenvolvimento Urbano Sustentável,brunacostela@example.org,(021) 0467 0162
+Brenda Costa,213.765.849-64,Curso Técnico em Fotografia,Estética Facial,ramosmatheus@example.org,+55 31 7728 1012
+Luiz Gustavo Santos,219.036.574-07,Bacharelado em Ciência da Computação,Direito Penal,jnascimento@example.net,71 1151 4781
+Bárbara Oliveira,072.963.841-31,Bacharelado em Psicologia,Robótica Industrial,agatha20@example.net,(084) 4833-2572
+Renan Cavalcanti,869.423.510-24,Mestrado em Economia,Eletrônica de Potência,ncorreia@example.org,+55 (041) 8882 6187
+Davi Souza,341.287.506-62,Curso Técnico em Design Gráfico,Ciência Política Comparada,luizaaragao@example.net,+55 21 3120 3991
+Sr. Yago Almeida,785.916.324-19,Bacharelado em Ciências Econômicas,Literatura Comparada,juliana90@example.net,+55 81 6177-6196
+Sr. Marcelo da Costa,159.072.638-30,Bacharelado em Nutrição,Antropologia Urbana,sophie69@example.com,(071) 3872 9208
