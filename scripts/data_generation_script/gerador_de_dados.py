@@ -106,20 +106,23 @@ class Gerador:
             })
         return pd.DataFrame(dados)
 
-    def gerar_usuario(self):
         # Gera senhas fictícias para usuarios. Além disso agrupa os cpf's dos alunos e professores para adicionar ao csv
-        dados_professor = pd.read_csv('./data/data_professor.csv')['cpf'].to_dict()
-        dados_aluno = pd.read_csv('./data/data_aluno.csv')['cpf'].to_dict()
-        concatenado = {**dados_aluno, **dados_professor}
+    def gerar_usuario(self):
+        # Obtém os CPFs dos alunos e professores
+        dados_professor = pd.read_csv('./data/data_professor.csv')['cpf'].to_list()
+        dados_aluno = pd.read_csv('./data/data_aluno.csv')['cpf'].to_list()
+
+        # Combina as listas e remove duplicatas
+        todos_cpfs = list(set(dados_aluno + dados_professor))
+
         dados = []
-        for _, valor in concatenado.items():
+        for cpf in todos_cpfs:
             dados.append({
-                'cpf': valor,
+                'cpf': cpf,
                 'senha': self.falso.password()
             })
 
-        df = pd.DataFrame(dados)
-        return df.drop_duplicates(subset='cpf', keep='first') # Faz o tratamento necessário para evitar duplicatas 
+        return pd.DataFrame(dados)
 
     def gerar_disciplinas(self):
         # Gera dados fictícios para disciplinas, incluindo carga horária e datas de início e término
