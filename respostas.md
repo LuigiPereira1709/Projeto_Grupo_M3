@@ -67,17 +67,39 @@ where id_aluno = 3 ;
 ```mysql
 SELECT * FROM log
 ```
-## 5-Consulta para verificar quais dias na semana são as aulas dos cursos
+## Crie um script que consulte os nomes dos 
+alunos que estão matriculados em uma turma 
+específica, juntamente com o nome do 
+professor responsável pela disciplina associada 
+a essa turma.
 ```mysql
--- Consulta para verificar quais dias na semana são as aulas dos cursos
-SELECT
-    curso.nome_curso AS Categoria,
-    curso.carga_horaria_curso AS Valor,
-    turma.dias
+-- Consulta para obter os nomes dos alunos e o nome do professor associado à turma
+SELECT 
+    aluno.nome_aluno AS NomeAluno,
+    professor.nome_professor AS NomeProfessor
 FROM 
-    curso
-JOIN 
-    turno ON curso.id_curso = turno.id_curso
-JOIN 
-    turma ON turno.id_turma = turma.id_turma;
+    aluno_turma
+JOIN aluno ON aluno_turma.id_aluno = aluno.id_aluno
+JOIN turma ON aluno_turma.id_turma = turma.id_turma
+JOIN disciplinas ON turma.id_turma = disciplinas.id_modulo
+JOIN professor ON disciplinas.id_professor = professor.id_professor
+WHERE 
+    turma.id_turma = 1;
+```
+## Selecione os cursos oferecidos em um 
+determinado turno, considerando o nome do 
+curso, a carga horária e os dias da semana nos 
+quais as aulas ocorrem
+```mysql
+-- Consulta para obter os cursos oferecidos em um determinado turno
+SELECT 
+    curso.nome_curso AS NomeCurso,
+    curso.carga_horaria_curso AS CargaHoraria,
+    turma.dias AS DiasDaSemana
+FROM 
+    turno
+JOIN curso ON turno.id_curso = curso.id_curso
+JOIN turma ON turno.id_turma = turma.id_turma
+WHERE 
+    turno.id_turno = 1;
 ```
