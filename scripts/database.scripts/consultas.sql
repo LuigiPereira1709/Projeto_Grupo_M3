@@ -17,7 +17,7 @@ GROUP BY
 HAVING
     quantidade_turmas > 1;
 
-    -- View para descobrir a porcentagem de evasão por turma
+-- View para descobrir a porcentagem de evasão por turma
 CREATE VIEW evasao_turma AS
 SELECT
     t.id_turma,
@@ -30,27 +30,33 @@ FROM
     JOIN aluno a ON at.id_aluno = a.id_aluno
 GROUP BY
     t.id_turma;
+
 SELECT * FROM evasao_turma;
 
 -- Demonstração do trigger 
 UPDATE aluno_turma
 SET status = 'teste'
-where id_aluno = 3 ;
+where id_aluno IN (9, 45, 77, 104, 56, 88, 99, 27, 17) ;
+
 SELECT * FROM log
 
 -- Consulta para obter os nomes dos alunos e o nome do professor associado à turma
 SELECT 
     aluno.nome_aluno AS NomeAluno,
-    professor.nome_professor AS NomeProfessor
+    professor.nome_professor AS NomeProfessor,
+    curso.nome_curso AS NomeCurso
 FROM 
     aluno_turma
 JOIN aluno ON aluno_turma.id_aluno = aluno.id_aluno
 JOIN turma ON aluno_turma.id_turma = turma.id_turma
+JOIN turno ON turma.id_turma = turno.id_turma
+JOIN curso ON turno.id_curso = curso.id_curso
 JOIN disciplinas ON turma.id_turma = disciplinas.id_modulo
 JOIN professor ON disciplinas.id_professor = professor.id_professor
 WHERE 
-    turma.id_turma = 1;
+    turma.id_turma IN (10, 34, 55);
 
+-- Consulta para obter os cursos oferecidos em um determinado turno
 -- Consulta para obter os cursos oferecidos em um determinado turno
 SELECT 
     curso.nome_curso AS NomeCurso,
@@ -61,5 +67,5 @@ FROM
 JOIN curso ON turno.id_curso = curso.id_curso
 JOIN turma ON turno.id_turma = turma.id_turma
 WHERE 
-    turno.id_turno = 1;
+    turno.id_turno IN (1, 23, 2);
     
