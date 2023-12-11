@@ -46,7 +46,7 @@ SET id_aluno = (SELECT id_aluno FROM aluno ORDER BY RAND() LIMIT 1),
 
 -- Inserção de dados na tabela modulo para cursos
 INSERT INTO modulo(id_curso)
-SELECT id_curso FROM curso ORDER BY RAND() LIMIT 25;
+SELECT id_curso FROM curso ORDER BY RAND() LIMIT 50;
 
 -- Carregamento de dados da tabela disciplinas a partir de um arquivo CSV
 LOAD DATA INFILE 'data_disciplina.csv'
@@ -66,7 +66,7 @@ SELECT
     id_turma
 FROM turma
 ORDER BY RAND()
-LIMIT 25;
+LIMIT 50;
 
 -- Carregamento de dados da tabela usuario a partir de um arquivo CSV
 LOAD DATA INFILE 'data_usuario.csv'
