@@ -67,6 +67,42 @@ where id_aluno = 3 ;
 ```mysql
 SELECT * FROM log
 ```
+**Resultado**
+- **id_log**: 36
+  - **id_aluno**: 9
+  - **novo_status**: teste
+  - **antigo_status**: ativo
+  - **data_modificacao**: 2023-12-11 15:18:34
+
+- **id_log**: 37
+  - **id_aluno**: 17
+  - **novo_status**: teste
+  - **antigo_status**: ativo
+  - **data_modificacao**: 2023-12-11 15:18:34
+
+- **id_log**: 38
+  - **id_aluno**: 27
+  - **novo_status**: teste
+  - **antigo_status**: ativo
+  - **data_modificacao**: 2023-12-11 15:18:34
+
+- **id_log**: 39
+  - **id_aluno**: 45
+  - **novo_status**: teste
+  - **antigo_status**: ativo
+  - **data_modificacao**: 2023-12-11 15:18:34
+
+- **id_log**: 40
+  - **id_aluno**: 77
+  - **novo_status**: teste
+  - **antigo_status**: ativo
+  - **data_modificacao**: 2023-12-11 15:18:34
+
+- **id_log**: 41
+  - **id_aluno**: 104
+  - **novo_status**: teste
+  - **antigo_status**: ativo
+  - **data_modificacao**: 2023-12-11 15:18:34
 ## 5-Crie um script que consulte os nomes dos alunos que estão matriculados em uma turma específica, juntamente com o nome do professor responsável pela disciplina associada a essa turma.
 ```mysql
 -- Consulta para obter os nomes dos alunos e o nome do professor associado à turma
