@@ -1,6 +1,6 @@
 # Projeto Em Grupo - Senac|Resilia
 
-Este repositório contém o código fonte e scripts para criar e alimentar um banco de dados fictício chamado RESILIENTES, projeto em grupo desenvolvido no Módulo 3 do curso de Análise de Dados.
+Este repositório contém o código fonte e scripts para criar e alimentar um banco de dados fictício chamado "RESILIENTES", projeto em grupo desenvolvido no Módulo 3 do curso de Análise de Dados.
 
 ### Objetivo do Projeto:
 
